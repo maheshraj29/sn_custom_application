@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1441695_mahitech_device_request">x_1441695_mahitech_device_request</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1000</number>
+        <prefix>DR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-01 15:33:12</sys_created_on>
+        <sys_id>8512610ec314b61051075c65e4013152</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DR</sys_name>
+        <sys_package display_value="Mahitech" source="x_1441695_mahitech">ec60e902c390b61051075c65e40131f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mahitech">ec60e902c390b61051075c65e40131f7</sys_scope>
+        <sys_update_name>sys_number_8512610ec314b61051075c65e4013152</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-01 15:33:12</sys_updated_on>
+    </sys_number>
+</record_update>

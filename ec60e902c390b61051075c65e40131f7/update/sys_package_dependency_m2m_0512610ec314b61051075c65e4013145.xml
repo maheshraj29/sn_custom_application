@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">4ebbdd3ae802121087debb3e47d14f29</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-01 15:33:12</sys_created_on>
+        <sys_id>0512610ec314b61051075c65e4013145</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Mahitech" source="x_1441695_mahitech">ec60e902c390b61051075c65e40131f7</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-01 15:33:12</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

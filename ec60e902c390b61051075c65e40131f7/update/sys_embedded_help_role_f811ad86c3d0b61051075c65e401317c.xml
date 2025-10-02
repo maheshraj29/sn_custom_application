@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1441695_mahitech.dispatch_management" name="x_1441695_mahitech.dispatch_management">3411ad86c3d0b61051075c65e401317b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-01 15:28:48</sys_created_on>
+        <sys_id>f811ad86c3d0b61051075c65e401317c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3411ad86c3d0b61051075c65e401317b</sys_name>
+        <sys_package display_value="Mahitech" source="x_1441695_mahitech">ec60e902c390b61051075c65e40131f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mahitech">ec60e902c390b61051075c65e40131f7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f811ad86c3d0b61051075c65e401317c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-01 15:28:48</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

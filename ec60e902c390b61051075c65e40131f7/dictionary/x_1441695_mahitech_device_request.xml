@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b412210ec314b61051075c65e40131cb" extends="task" label="Device Request" max_length="40" name="x_1441695_mahitech_device_request" type="collection"/>
+</database>

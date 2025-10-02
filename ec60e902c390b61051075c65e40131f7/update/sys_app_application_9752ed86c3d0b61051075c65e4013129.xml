@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Device management and process delivery</description>
+        <device_type>browser</device_type>
+        <hint>Device management and process delivery</hint>
+        <name/>
+        <order/>
+        <roles>x_1441695_mahitech.device_management,x_1441695_mahitech.dispatch_management,x_1441695_mahitech.release_management,x_1441695_mahitech.end_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-01 15:34:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9752ed86c3d0b61051075c65e4013129</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mahitech</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Mahitech" source="x_1441695_mahitech">ec60e902c390b61051075c65e40131f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mahitech">ec60e902c390b61051075c65e40131f7</sys_scope>
+        <sys_update_name>sys_app_application_9752ed86c3d0b61051075c65e4013129</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-01 15:34:27</sys_updated_on>
+        <title>Mahitech</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
