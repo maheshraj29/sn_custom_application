@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 07:17:03</sys_created_on>
+        <sys_id>60b38a26c3dc3a1051075c65e40131df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1441695_mahitech_ai_devices.x_1441695_mahitech.ai_devices_user</sys_name>
+        <sys_package display_value="Mahitech" source="x_1441695_mahitech">ec60e902c390b61051075c65e40131f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mahitech">ec60e902c390b61051075c65e40131f7</sys_scope>
+        <sys_security_acl display_value="x_1441695_mahitech_ai_devices">68b38a26c3dc3a1051075c65e40131db</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_60b38a26c3dc3a1051075c65e40131df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 07:17:03</sys_updated_on>
+        <sys_user_role display_value="x_1441695_mahitech.ai_devices_user" name="x_1441695_mahitech.ai_devices_user">98b30a62c3dc3a1051075c65e40131a1</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mahitech">ec60e902c390b61051075c65e40131f7</application>
+        <file_path/>
+        <instance_id>43ab27551b868690c82acb7b234bcbfb</instance_id>
+        <instance_name>dev265509</instance_name>
+        <name>sys_security_acl_role_60b38a26c3dc3a1051075c65e40131df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-03 07:17:03</sys_created_on><sys_id>60b38a26c3dc3a1051075c65e40131df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1441695_mahitech_ai_devices.x_1441695_mahitech.ai_devices_user</sys_name><sys_package display_value="Mahitech" source="x_1441695_mahitech">ec60e902c390b61051075c65e40131f7</sys_package><sys_policy/><sys_scope display_value="Mahitech">ec60e902c390b61051075c65e40131f7</sys_scope><sys_security_acl display_value="x_1441695_mahitech_ai_devices">68b38a26c3dc3a1051075c65e40131db</sys_security_acl><sys_update_name>sys_security_acl_role_60b38a26c3dc3a1051075c65e40131df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-03 07:17:03</sys_updated_on><sys_user_role display_value="x_1441695_mahitech.ai_devices_user" name="x_1441695_mahitech.ai_devices_user">98b30a62c3dc3a1051075c65e40131a1</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>651340587</payload_hash>
+        <record_name>x_1441695_mahitech_ai_devices.x_1441695_mahitech.ai_devices_user</record_name>
+        <reverted_from/>
+        <source>65d90d96c394f61051075c65e40131c8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 07:17:03</sys_created_on>
+        <sys_id>f0b38a26c3dc3a1051075c65e40131e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199a8ee72870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 07:17:03</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>f4b38a2649dc3a10fa89016959ef1ae1</update_guid>
+        <update_guid_history>f4b38a2649dc3a10fa89016959ef1ae1:651340587</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1441695_mahitech_ai_devices.x_1441695_mahitech.ai_devices_user">ca3c0b72c358ba1051075c65e401318f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 07:12:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4bd4fa694ba24aee9c6007e46693e2f1</sys_id>
+        <sys_metadata>60b38a26c3dc3a1051075c65e40131df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1441695_mahitech_ai_devices.x_1441695_mahitech.ai_devices_user</sys_name>
+        <sys_package display_value="Mahitech" source="x_1441695_mahitech">ec60e902c390b61051075c65e40131f7</sys_package>
+        <sys_parent display_value="x_1441695_mahitech_ai_devices">68b38a26c3dc3a1051075c65e40131db</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Mahitech">ec60e902c390b61051075c65e40131f7</sys_scope>
+        <sys_scope_delete display_value="">fca2d12d74f7461aaa8deb92044154a4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_60b38a26c3dc3a1051075c65e40131df</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_60b38a26c3dc3a1051075c65e40131df">f0b38a26c3dc3a1051075c65e40131e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 07:12:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
