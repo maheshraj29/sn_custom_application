@@ -11,10 +11,19 @@
         <name>Hide the Section</name>
         <order/>
         <script><![CDATA[function onLoad() {
-	if(g_form.getValue('u_reference_1')== ''){
-	g_form.setSectionDisplay('device_details', false);
-	g_form.setSectionDisplay('delivery_details', false);
-	}
+    if (g_form.getValue('u_reference_1') == '') {
+        g_form.setSectionDisplay('device_details', false);
+        g_form.setSectionDisplay('delivery_details', false);
+    } else {
+        g_form.getReference('u_reference_1', getDetails);
+
+        function getDetails(details) {
+            g_form.setValue('u_string_6', details.model_number);
+            g_form.setValue('u_string_7', details.short_description);
+            g_form.setValue('u_price_8', details.u_price_2);
+            g_form.setValue('u_string_9', details.warranty_expiration);
+        }
+    }
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -22,7 +31,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6dc0222ec3507a1051075c65e4013196</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Hide the Section</sys_name>
         <sys_overrides/>
         <sys_package display_value="Mahitech" source="x_1441695_mahitech">ec60e902c390b61051075c65e40131f7</sys_package>
@@ -30,7 +39,7 @@
         <sys_scope display_value="Mahitech">ec60e902c390b61051075c65e40131f7</sys_scope>
         <sys_update_name>sys_script_client_6dc0222ec3507a1051075c65e4013196</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-04 06:26:03</sys_updated_on>
+        <sys_updated_on>2025-10-07 15:51:42</sys_updated_on>
         <table>x_1441695_mahitech_device_request</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>

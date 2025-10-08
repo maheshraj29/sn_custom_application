@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8076d094c36c721051075c65e4013192" extends="sys_import_set_row" label="Device Data" max_length="40" name="x_1441695_mahitech_device_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Device Name" label="Device Name" max_length="40" name="u_device_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Order by" label="Order by" max_length="40" name="u_order_by" type="string"/>
+        <element attributes="import_attribute_name=Quantity" label="Quantity" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Delivery Date" label="Delivery Date" max_length="40" name="u_delivery_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company" label="Company" max_length="40" name="u_company" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Justification" label="Justification" max_length="40" name="u_justification" type="string"/>
+    </element>
+</database>

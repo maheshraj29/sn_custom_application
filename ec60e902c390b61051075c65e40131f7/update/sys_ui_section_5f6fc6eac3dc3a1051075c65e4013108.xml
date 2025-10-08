@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-03 09:04:10</sys_created_on>
-            <sys_id>f53cda66c3507a1051075c65e401313e</sys_id>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>cfc7378cc3a8721051075c65e40131f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-03 09:04:10</sys_updated_on>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_reference_1</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-03 09:04:10</sys_created_on>
-            <sys_id>7d3cda66c3507a1051075c65e401313e</sys_id>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>8bc7378cc3a8721051075c65e40131f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-03 09:04:10</sys_updated_on>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_reference_3</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-03 09:04:10</sys_created_on>
-            <sys_id>f13cda66c3507a1051075c65e401313f</sys_id>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>03c7378cc3a8721051075c65e40131f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-03 09:04:10</sys_updated_on>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>company</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-03 09:04:10</sys_created_on>
-            <sys_id>793cda66c3507a1051075c65e401313f</sys_id>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>87c7378cc3a8721051075c65e40131f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-03 09:04:10</sys_updated_on>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-03 09:04:10</sys_created_on>
-            <sys_id>fd3cda66c3507a1051075c65e401313f</sys_id>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>0fc7378cc3a8721051075c65e40131f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-03 09:04:10</sys_updated_on>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>u_string_4</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-03 09:04:10</sys_created_on>
-            <sys_id>753cda66c3507a1051075c65e4013140</sys_id>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>83c7378cc3a8721051075c65e40131f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-03 09:04:10</sys_updated_on>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>u_string_1</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-03 09:04:10</sys_created_on>
-            <sys_id>f93cda66c3507a1051075c65e4013140</sys_id>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>0bc7378cc3a8721051075c65e40131f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-03 09:04:10</sys_updated_on>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,41 +102,69 @@
             <element>u_glide_date_5</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-03 09:04:10</sys_created_on>
-            <sys_id>713cda66c3507a1051075c65e4013141</sys_id>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>8fc7378cc3a8721051075c65e40131f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-03 09:04:10</sys_updated_on>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_cost</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>07c7378cc3a8721051075c65e40131f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reminder_for_pickup</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>8bc7378cc3a8721051075c65e40131f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-03 09:04:10</sys_created_on>
-            <sys_id>f53cda66c3507a1051075c65e4013141</sys_id>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>03c7378cc3a8721051075c65e40131f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-03 09:04:10</sys_updated_on>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>9</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-03 09:04:10</sys_created_on>
-            <sys_id>7d3cda66c3507a1051075c65e4013141</sys_id>
+            <sys_created_on>2025-10-08 07:35:11</sys_created_on>
+            <sys_id>87c7378cc3a8721051075c65e40131f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1441695_mahitech_device_request" sys_domain="global" view="Default view">5f6fc6eac3dc3a1051075c65e4013108</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-03 09:04:10</sys_updated_on>
+            <sys_updated_on>2025-10-08 07:35:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

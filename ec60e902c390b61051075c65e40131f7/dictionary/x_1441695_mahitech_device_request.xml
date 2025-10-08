@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b412210ec314b61051075c65e40131cb" extends="task" label="Device Request" max_length="40" name="x_1441695_mahitech_device_request" type="collection">
         <element attributes="encode_utf8=false" label="Device Name" mandatory="true" max_length="32" name="u_reference_1" reference="x_1441695_mahitech_ai_devices" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Reminder for pickup" max_length="40" name="reminder_for_pickup" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Delivery Date" max_length="40" name="u_glide_date_5" type="glide_date"/>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_8" read_only="true" type="price"/>
         <element label="Demo" max_length="40" name="demo" type="string"/>
@@ -9,11 +10,14 @@
         <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="u_string_6" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="u_string_1" type="string">
             <choice>
-                <element inactive_on_update="false" label="Cancelled" sequence="1" value="cancelled"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="3" value="cancelled"/>
+                <element inactive_on_update="false" label="Delivery Failed" sequence="2" value="delivery failed"/>
                 <element inactive_on_update="false" label="Delivered" sequence="0" value="delivered"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="in progress"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Quantity" mandatory="true" max_length="40" name="u_string_4" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Warranty Expiration" max_length="40" name="u_string_9" read_only="true" type="string"/>
+        <element attributes="omit_sys_original=true" label="Total Cost" max_length="20" name="total_cost" read_only="true" type="currency"/>
     </element>
 </database>
